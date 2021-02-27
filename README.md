@@ -1,4 +1,4 @@
-# Neural-network-
+# Neural network
 
 The code contains my very own build of neural network. Squared error function is used for error measure and tanh is used as the activation function in the Neural network. 
 Gradient descent implementations performed:<br/>
